@@ -1,1 +1,3 @@
 Lorem ipsum
+Linijka 2
+Linijka 3
