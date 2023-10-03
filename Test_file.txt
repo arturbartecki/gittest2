@@ -4,3 +4,4 @@ Linijka 3
 Linijka 4
 5555555
 Kilka więcej linijek
+777
